@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DE.Forms/DE.Forms.csproj" />
+  <Project Path="DE.Forms.IntegrationTests/DE.Forms.IntegrationTests.csproj" />
+</Solution>

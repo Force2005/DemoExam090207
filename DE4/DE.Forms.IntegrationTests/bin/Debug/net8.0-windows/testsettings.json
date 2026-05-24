@@ -1,0 +1,20 @@
+{
+  "MySql": {
+    "Enabled": true,
+    "Server": "localhost",
+    "Port": 3306,
+    "UserId": "root",
+    "Password": "Aa1692742",
+    "ConnectionTimeout": 15
+  },
+  "SqlServer": {
+    "Enabled": false,
+    "Server": "(localdb)\\MSSQLLocalDB",
+    "UserId": "",
+    "Password": "",
+    "ConnectionTimeout": 15,
+    "TrustedConnection": true,
+    "Encrypt": false,
+    "TrustServerCertificate": true
+  }
+}
