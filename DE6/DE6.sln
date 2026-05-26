@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.6.11819.183 stable
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DE6.Forms", "DE6.Forms\DE6.Forms.csproj", "{B081E005-50C6-0124-F1B2-6444FCB8675E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B081E005-50C6-0124-F1B2-6444FCB8675E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B081E005-50C6-0124-F1B2-6444FCB8675E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B081E005-50C6-0124-F1B2-6444FCB8675E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B081E005-50C6-0124-F1B2-6444FCB8675E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

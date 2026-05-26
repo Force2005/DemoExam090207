@@ -1,7 +1,7 @@
 {
-  "version": 4,
+  "version": 3,
   "targets": {
-    "net8.0-windows": {
+    "net8.0-windows7.0": {
       "DocumentFormat.OpenXml/3.4.1": {
         "type": "package",
         "dependencies": {
@@ -136,7 +136,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net8.0-windows": [
+    "net8.0-windows7.0": [
       "DocumentFormat.OpenXml >= 3.4.1"
     ]
   },
@@ -147,11 +147,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "W:\\repos\\DE6\\DE6.Forms\\DE6.Forms.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Downloads\\demoxam\\DE6\\DE6.Forms\\DE6.Forms.csproj",
       "projectName": "DE6.Forms",
-      "projectPath": "W:\\repos\\DE6\\DE6.Forms\\DE6.Forms.csproj",
+      "projectPath": "C:\\Users\\User\\Downloads\\demoxam\\DE6\\DE6.Forms\\DE6.Forms.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "W:\\repos\\DE6\\DE6.Forms\\obj\\",
+      "outputPath": "C:\\Users\\User\\Downloads\\demoxam\\DE6\\DE6.Forms\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\VisualStudio\\Shared\\NuGetPackages"
@@ -168,8 +168,7 @@
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net8.0-windows": {
-          "framework": "net8.0-windows7.0",
+        "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {}
         }
@@ -187,8 +186,7 @@
       "SdkAnalysisLevel": "10.0.300"
     },
     "frameworks": {
-      "net8.0-windows": {
-        "framework": "net8.0-windows7.0",
+      "net8.0-windows7.0": {
         "targetAlias": "net8.0-windows",
         "dependencies": {
           "DocumentFormat.OpenXml": {

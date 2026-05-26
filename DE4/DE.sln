@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.6.11819.183 stable
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DE.Forms.IntegrationTests", "DE.Forms.IntegrationTests\DE.Forms.IntegrationTests.csproj", "{824775D8-44C4-56FC-A72D-AA5A9F330D89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DE.Forms", "DE.Forms\DE.Forms.csproj", "{6AC7C38D-5304-A63D-5B12-46F8B2DCDA67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{824775D8-44C4-56FC-A72D-AA5A9F330D89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{824775D8-44C4-56FC-A72D-AA5A9F330D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{824775D8-44C4-56FC-A72D-AA5A9F330D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{824775D8-44C4-56FC-A72D-AA5A9F330D89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AC7C38D-5304-A63D-5B12-46F8B2DCDA67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AC7C38D-5304-A63D-5B12-46F8B2DCDA67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AC7C38D-5304-A63D-5B12-46F8B2DCDA67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AC7C38D-5304-A63D-5B12-46F8B2DCDA67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

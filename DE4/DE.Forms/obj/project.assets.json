@@ -1,7 +1,7 @@
 {
-  "version": 4,
+  "version": 3,
   "targets": {
-    "net8.0-windows": {
+    "net8.0-windows7.0": {
       "Microsoft.Bcl.Cryptography/8.0.0": {
         "type": "package",
         "compile": {
@@ -1242,7 +1242,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net8.0-windows": [
+    "net8.0-windows7.0": [
       "Microsoft.Data.SqlClient >= 7.0.0",
       "MySqlConnector >= 2.4.0"
     ]
@@ -1254,11 +1254,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "W:\\repos\\DE\\DE.Forms\\DE.Forms.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Downloads\\demoxam\\DE4\\DE.Forms\\DE.Forms.csproj",
       "projectName": "DE.Forms",
-      "projectPath": "W:\\repos\\DE\\DE.Forms\\DE.Forms.csproj",
+      "projectPath": "C:\\Users\\User\\Downloads\\demoxam\\DE4\\DE.Forms\\DE.Forms.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "W:\\repos\\DE\\DE.Forms\\obj\\",
+      "outputPath": "C:\\Users\\User\\Downloads\\demoxam\\DE4\\DE.Forms\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\VisualStudio\\Shared\\NuGetPackages"
@@ -1275,8 +1275,7 @@
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net8.0-windows": {
-          "framework": "net8.0-windows7.0",
+        "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {}
         }
@@ -1294,8 +1293,7 @@
       "SdkAnalysisLevel": "10.0.300"
     },
     "frameworks": {
-      "net8.0-windows": {
-        "framework": "net8.0-windows7.0",
+      "net8.0-windows7.0": {
         "targetAlias": "net8.0-windows",
         "dependencies": {
           "Microsoft.Data.SqlClient": {

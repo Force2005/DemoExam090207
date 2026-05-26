@@ -1,7 +1,7 @@
 {
-  "version": 4,
+  "version": 3,
   "targets": {
-    "net8.0-windows": {
+    "net8.0-windows7.0": {
       "coverlet.collector/6.0.2": {
         "type": "package",
         "build": {
@@ -2192,7 +2192,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net8.0-windows": [
+    "net8.0-windows7.0": [
       "DE.Forms >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.12.0",
       "coverlet.collector >= 6.0.2",
@@ -2207,11 +2207,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "W:\\repos\\DE\\DE.Forms.IntegrationTests\\DE.Forms.IntegrationTests.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Downloads\\demoxam\\DE4\\DE.Forms.IntegrationTests\\DE.Forms.IntegrationTests.csproj",
       "projectName": "DE.Forms.IntegrationTests",
-      "projectPath": "W:\\repos\\DE\\DE.Forms.IntegrationTests\\DE.Forms.IntegrationTests.csproj",
+      "projectPath": "C:\\Users\\User\\Downloads\\demoxam\\DE4\\DE.Forms.IntegrationTests\\DE.Forms.IntegrationTests.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "W:\\repos\\DE\\DE.Forms.IntegrationTests\\obj\\",
+      "outputPath": "C:\\Users\\User\\Downloads\\demoxam\\DE4\\DE.Forms.IntegrationTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\VisualStudio\\Shared\\NuGetPackages"
@@ -2228,12 +2228,11 @@
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net8.0-windows": {
-          "framework": "net8.0-windows7.0",
+        "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "W:\\repos\\DE\\DE.Forms\\DE.Forms.csproj": {
-              "projectPath": "W:\\repos\\DE\\DE.Forms\\DE.Forms.csproj"
+            "C:\\Users\\User\\Downloads\\demoxam\\DE4\\DE.Forms\\DE.Forms.csproj": {
+              "projectPath": "C:\\Users\\User\\Downloads\\demoxam\\DE4\\DE.Forms\\DE.Forms.csproj"
             }
           }
         }
@@ -2251,8 +2250,7 @@
       "SdkAnalysisLevel": "10.0.300"
     },
     "frameworks": {
-      "net8.0-windows": {
-        "framework": "net8.0-windows7.0",
+      "net8.0-windows7.0": {
         "targetAlias": "net8.0-windows",
         "dependencies": {
           "Microsoft.NET.Test.Sdk": {
